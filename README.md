@@ -1,21 +1,57 @@
-# 💫 About Me:
-🔭 I’m currently working on a Community Hall Booking System and an AI-powered Smart Calorie Tracker.<br>👯‍♀️ I’m looking to collaborate on AI and computer vision projects.<br>🤔 I’m looking for help with advanced system architecture.<br>💬 Ask me about Python, TensorFlow, and building intelligent systems.<br>⚡ Fun fact: I built a custom AI voice assistant.
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Ateeq</h1>
 
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ateeq_rahman_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ateeq Rahman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ateeqrh123@gmail.com) 
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ateeqrh123-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ateeqrh123-png&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ateeqrh123-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://www.gitskins.com/github-profile-readme-generator?utm_source=github_readme&amp;utm_medium=readme&amp;utm_campaign=header_image&amp;utm_content=ateeqrh123-png"><img src="https://www.gitskins.com/api/section/stats?username=ateeqrh123-png&theme=github-dark&mode=dark" alt="ateeqrh123-png's GitHub Stats" width="49%" /></a>
+  <img src="https://streak-stats.demolab.com/?user=ateeqrh123-png&theme=nightowl&hide_border=true&cache_seconds=86400" alt="ateeqrh123-png's GitHub Streak" width="49%" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ateeqrh123-png&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=ateeqrh123-png&theme=github-dark&mode=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=ateeqrh123-png&theme=github-dark&mode=dark" alt="Ateeq's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=ateeqrh123-png&theme=github-dark&mode=dark" alt="ateeqrh123-png's Activity Graph" />
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=ateeqrh123-png&icon=6&color=4)](https://visitcount.itsvg.in)
+## 🛠️ Languages & Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=ateeqrh123-png&theme=github-dark&mode=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ateeqrh123-png&theme=github-dark&mode=dark" />
+  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=ateeqrh123-png&theme=github-dark&mode=dark" />
+</picture>
+
+<div align="center">
+  <!---->
+</div>
+
+<p align="center"><sub>Ateeq · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/github-profile-readme-generator?utm_source=github_readme&amp;utm_medium=readme&amp;utm_campaign=footer&amp;utm_content=ateeqrh123-png">GitSkins</a></sub></p>
